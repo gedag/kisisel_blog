@@ -6,11 +6,6 @@
 
 **Canlı Site:** [Sitemi Ziyaret Et](https://kisisel-blog-two.vercel.app/)
 
----
-
-## 📊 GitHub İstatistiklerim
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=esra03-1&show_icons=true&theme=radical)
 
 ---
 
