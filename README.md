@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/eda-gögebakan/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="mailto:edagogebakan@gmail.com" target="_blank">
+  <a href="mailto:edagogebakan1453@gmail.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="50" height="50"/>
 </a>
 
