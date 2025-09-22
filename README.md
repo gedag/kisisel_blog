@@ -24,14 +24,12 @@
 ## 🌐 Bana Ulaşın
 
 <p align="center">
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  
   <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://www.linkedin.com/in/eda-g%C3%B6gebakan/" />
   </a>
   <a href="mailto:mail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://mail.google.com/mail/u/0/#inbox" />
   </a>
 </p>
 
